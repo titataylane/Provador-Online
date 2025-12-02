@@ -1,0 +1,7 @@
+{
+  "name": "Provador Virtual AI",
+  "description": "Um provador virtual alimentado pelo Gemini 2.5 Flash Image. Faça upload da sua foto e de uma roupa para ver como ela fica em você.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
